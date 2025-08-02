@@ -1,6 +1,8 @@
 ### 👋 Hi, I'm Stella! 
 
-- 📚 **Education:** Student at University of Maryland, pursuing a B.S in Immersive Media Design with a focus in Computer Science
+---
+### ✨ About Me
+- I am a sophomore at the University of Maryland pursuing a B.S. in Immersive Media Design, with a focus in Computer Science. Whether through augmented/virtual reality, machine learning, or data visualization, I am interested in making complex ideas more accessible and engaging. 
 - 🌱 **Currently learning:** Python, C# for Unity
 - ⚡ **Fun fact:** I am ambidextrous - I can only use sports rackets with my left hand and write with my right hand.
 
