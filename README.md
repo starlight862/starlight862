@@ -21,27 +21,12 @@
 
 ---
 ### 📌 Featured Projects 
-#### 🔷 Machine Learning Studio Project
-
-
+| Project | Description | Tools |
+| :---: | :---: | :---: |
+[Predicting Countries' Life Ladder Scores](https://github.com/starlight862/ecornell_portfolio.git) | Developed a supervised random forest model that predicts countries' life ladder scores. | Python |
 
 ---
 ### 📫 Connect with Me! 
 - **LinkedIn:** [linkedin.com/in/stella-li-umd](https://www.linkedin.com/in/stella-li-umd/)
 - **Email:** sli2828@terpmail.umd.edu
 - **Portfolio Website:** (Coming soon!)
-
-<!--
-**starlight862/starlight862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
